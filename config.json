@@ -84,10 +84,6 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    },
-    "1111": {
-      "api": "https://www.mdzyapi.com/api.php/provide/vod",
-      "name": "11111"
     }
   }
 }
